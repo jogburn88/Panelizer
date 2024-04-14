@@ -1,6 +1,6 @@
 # Panelizer
 
-This is a simple software tool to use for breaking down panels into a list of parts needed to make the panels
+This is a simple software tool to use for breaking down wooden panels into a list of parts needed to make the panels
 
 When wooden panel is needed, it often needs to be glued together from several strips of smaller pieces of wood. 
 
